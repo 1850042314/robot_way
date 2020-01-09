@@ -58,7 +58,7 @@ https://github.com/qianguyihao/Web?files=1
 
 作业提交形式：
 
-本地计算机安装一个github desktop 下载链接<a herf="https://desktop.github.com/">
+本地计算机安装一个github desktop 下载链接https://desktop.github.com
 
 可以直接fork项目到你们自己的github账号下，然后将代码下载下来，在自己电脑上修改之后，提交到GitHub。注意要有readme说明。
 
